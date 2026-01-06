@@ -1,6 +1,8 @@
-# UART Monitor
+# UART Console
 
 A terminal-based UART monitor with a modern TUI interface for monitoring and interacting with serial devices.
+
+<img width="1998" height="987" alt="image" src="https://github.com/user-attachments/assets/dab7eade-c680-43f4-9622-66429479b58b" />
 
 ### From source
 
